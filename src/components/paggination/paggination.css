@@ -1,0 +1,28 @@
+.paggination{
+    padding: auto;
+}
+.select-container{
+    padding: 5px;
+    float: right;
+    margin-bottom: 200px;
+}
+.todo{
+    border: 1px solid gray;
+    margin-top: 7px;
+    padding: 5px 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.todo-title{
+    font-weight: 500;
+   
+}
+.todo-status{
+    font-weight: 800;
+}
+select{
+    margin-top: 5px;
+padding: 7px 35px;
+margin-left: 80%;
+margin-left: 0;
+}
